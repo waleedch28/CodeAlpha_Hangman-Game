@@ -1,1 +1,30 @@
 
+This project gave me the chance to strengthen my logic-building and problem-solving skills while applying Python fundamentals. Here’s a breakdown of how the game works:
+
+🔹 Word Selection – The game randomly selects a word from a predefined list.
+🔹 User Input – Players guess one letter at a time.
+🔹 Game Logic –
+
+If the guessed letter is in the word, it is revealed in the correct position(s).
+
+If the guess is wrong, the player loses one chance.
+🔹 Winning Condition – The player wins if they guess the complete word before running out of chances.
+🔹 Losing Condition – If the player uses all attempts, the game ends and reveals the correct word.
+
+💻 Concepts used:
+
+Loops (while, for)
+
+Conditional statements (if-else)
+
+String manipulation
+
+Lists & sets
+
+Random module in Python
+
+This hands-on exercise helped me understand how to combine different Python concepts to build an interactive project. 🎯
+
+I’m really grateful to Code Alpha for providing such practical tasks that make learning both fun and impactful!
+
+
